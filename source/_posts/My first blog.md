@@ -1,4 +1,4 @@
 ---
-titile: Hello world
+title: Hello world
 ---
 Hello Blog
